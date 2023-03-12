@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate computer science student from Albania</h3>
 - 👨‍🎓- I'm currently on my third year of university
-- 📫 You can reach me at: **shametijoan@gmail.com**
+- 📫 You can reach me at: **shametijoan@gmail.com** and **joanshameti@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
