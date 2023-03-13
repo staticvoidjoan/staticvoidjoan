@@ -47,7 +47,7 @@
 ###
 
 <br clear="both">
-![snake gif](https://github.com/staticvoidjoan/staticvoidjoan/blob/output/github-contribution-grid-snake.gif)
+
 <img src="https://github.com/staticvoidjoan/staticvoidjoan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
