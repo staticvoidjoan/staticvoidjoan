@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/staticvoidjoan/staticvoidjoan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
