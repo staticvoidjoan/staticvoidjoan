@@ -36,4 +36,9 @@
   📫 Reach me at <a href="mailto:shametijoan@gmail.com">shametijoan@gmail.com</a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=staticvoidjoan&show_icons=true&locale=en&layout=compact" alt="staticvoidjoan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staticvoidjoan&show_icons=true&locale=en" alt="staticvoidjoan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staticvoidjoan&" alt="staticvoidjoan" /></p>
 
