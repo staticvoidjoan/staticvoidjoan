@@ -15,8 +15,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staticvoidjoan&show_icons=true&locale=en&layout=compact" alt="staticvoidjoan" /></p>
 <p align="center">
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staticvoidjoan&show_icons=true&locale=en&layout=compact" alt="staticvoidjoan" /></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
