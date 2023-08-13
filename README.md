@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/joan-shameti-536637160/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/joan.shameti" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/ucibiacxyqx9nntnmoatu3rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucibiacxyqx9nntnmoatu3rw" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/staticvoidjoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="staticvoidjoan" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
