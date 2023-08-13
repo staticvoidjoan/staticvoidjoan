@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Joan 👋</h1>
 <p align="center">Intern Software Engineer 👨‍💻</p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staticvoidjoan&show_icons=true&locale=en&layout=compact" alt="staticvoidjoan" /></p>
 <p align="center">
   <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="Profile Image">
 </p>
@@ -34,4 +35,4 @@
   📫 Reach me at <a href="mailto:shametijoan@gmail.com">shametijoan@gmail.com</a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staticvoidjoan&show_icons=true&locale=en&layout=compact" alt="staticvoidjoan" /></p>
+
