@@ -1,6 +1,6 @@
   <div align="center">
     <h1>Hi there, I'm Joan 👋</h1>
-    <p>Intern Software Engineer 👨‍💻</p>
+    <p>Software Engineer 👨‍💻</p>
     <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="Profile Image">
     <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/joan-shameti-536637160/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
