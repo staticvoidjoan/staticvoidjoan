@@ -1,6 +1,5 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif" style="height: 400px;"/>
-</div>
+<img src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif" style="display: block; margin: 0 auto; height: 400px;"/>
+
 
 # 💫 About Me:
 Joan is a passionate junior software engineer based in Albania. With a deep love for gaming, programming, and technology, Joan has embraced the world of software development with enthusiasm. Beyond the routine of coding, Joan has successfully developed a unique application named 'Career Crush.' This innovative app revolutionizes the job search experience, taking inspiration from the popular dating app Tinder.Currently employed at Tegeria, Joan brings dedication and skill to the team, contributing to the development of cutting-edge solutions
