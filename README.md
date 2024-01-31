@@ -1,3 +1,4 @@
+<h1 style="text-align: center; font-family: Arial, sans-serif; color: #333;">Joan Shameti</h1>
 <img src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif" style="display: block; margin: 0 auto; height: 400px;"/>
 
 
