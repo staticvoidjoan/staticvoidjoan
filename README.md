@@ -1,5 +1,4 @@
 <h1 style="text-align: center; font-family: Arial, sans-serif; color: #333;">Joan Shameti</h1>
-<img src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif" style="display: block; margin: 0 auto; height: 400px;"/>
 
 
 # 💫 About Me:
@@ -28,4 +27,5 @@ Joan is a passionate junior software engineer based in Albania. With a deep love
 ---
 [![](https://visitcount.itsvg.in/api?id=staticvoidjoan&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif" style="display: block; margin: 0 auto; height: 400px;"/>
+
